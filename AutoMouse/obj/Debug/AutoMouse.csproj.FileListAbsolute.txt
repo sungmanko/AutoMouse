@@ -1,0 +1,9 @@
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe.config
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\bin\Debug\AutoMouse.exe
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\bin\Debug\AutoMouse.pdb
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Form1.resources
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.Properties.Resources.resources
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.GenerateResource.cache
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.csproj.CoreCompileInputs.cache
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.exe
+C:\Users\ts-sungman.ko\source\repos\AutoMouse\AutoMouse\obj\Debug\AutoMouse.pdb
